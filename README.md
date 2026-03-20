@@ -18,5 +18,7 @@ Feature Engineering
 
 Document length, word count, unique word count, avg word length
 Keyword-based topic extraction from raw text
+
 Label encoding for classification
- In this project, I performed extensive data cleaning and exploratory analysis to identify key patterns across 20 distinct AI domains, such as LLMs, RAG, and Computer Vision. I also implemented feature engineering and built multiple machine learning models to classify these topics, with a logistic regression model achieving 100% accuracy. Additionally, I used t-SNE projections to visually confirm the semantic separation between different technical categories.
+ In this project, I performed extensive data cleaning and exploratory analysis to identify key patterns across 20 distinct AI domains, such as LLMs, RAG, and Computer Vision. 
+ I also implemented feature engineering and built multiple machine learning models to classify these topics, with a logistic regression model achieving 100% accuracy. Additionally, I used t-SNE projections to visually confirm the semantic separation between different technical categories.
