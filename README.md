@@ -14,6 +14,12 @@ Cross-Validation — 5-fold CV for model evaluation
 TruncatedSVD — reducing TF-IDF matrix to 50 dimensions
 t-SNE — 2D visualization of high-dimensional document embeddings
 
+High-dimensional data reduced into 2D/3D
+Visual representation of:
+Clusters
+Relationships
+Data distribution
+
 Feature Engineering
 
 Document length, word count, unique word count, avg word length
