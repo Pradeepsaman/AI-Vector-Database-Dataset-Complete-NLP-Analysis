@@ -1,3 +1,16 @@
+Objective of the Project
+
+The main goal of this project is to:
+
+Convert raw dataset into vector representations
+Analyze relationships between data points
+Identify patterns, similarities, and clusters
+Enable intelligent applications like:
+Recommendation systems
+Semantic search
+Data grouping 
+
+
 Based on your notebook, here are all the technical skills you used:
 
 Machine Learning & NLP
